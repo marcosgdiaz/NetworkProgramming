@@ -1,0 +1,12 @@
+Nombre del fichero: prueba2.txt Numero de la linea: 2
+hola idjfsajdoifjas
+Nombre del fichero: prueba2.txt Numero de la linea: 3
+jdaskfjkal hola
+Nombre del fichero: prueba3.txt Numero de la linea: 1
+esooo ess nene hola
+Nombre del fichero: prueba3.txt Numero de la linea: 2
+sjfkldjsakf hola dfg
+Nombre del fichero: prueba1.txt Numero de la linea: 1
+hola que talsfkjhdv
+Nombre del fichero: prueba1.txt Numero de la linea: 4
+hola es
